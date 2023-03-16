@@ -1,0 +1,1 @@
+# El File Transport Protocol (FTP o traducido como Protocolo de transferencia de archivos) permite cargar o descargar archivos en determinado dominio, en cualquier tipo de dispositivo conectado a dicho dominio. En este ejemplo configuramos la parte Backend de un cliente FTP
